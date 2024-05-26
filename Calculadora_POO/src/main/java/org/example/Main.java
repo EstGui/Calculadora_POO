@@ -8,6 +8,10 @@ public class Main {
     }
 }
 
+// Breno Marcelo de Oliveira Barbosa - 185557
+// Guilherme Oliveira Esteves - 189795
+// Vinicius Silva Queiroz - 040665
+
 /*
     O programa funciona através de instruções;
     Possui atributos e métodos privados, ou seja, o pilar de encapsulamento;
